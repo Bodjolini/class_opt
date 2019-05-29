@@ -1,4 +1,4 @@
-package kz.kassayev.entity.pojo;
+package kz.kassayev.entity.model;
 
 public class Car {
     private static int idGenerator = 0;
